@@ -7,5 +7,5 @@ Print hi
 function shashank()
 {
 Print shashank
-print Hi
+
 }
