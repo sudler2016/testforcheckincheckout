@@ -6,4 +6,5 @@ Print anup
 function shashank()
 {
 Print shashank
+print Hi
 }
