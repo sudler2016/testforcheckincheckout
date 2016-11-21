@@ -1,7 +1,7 @@
 function anup()
 {
 Print anup
-Print hi
+
 }
 
 function shashank()
