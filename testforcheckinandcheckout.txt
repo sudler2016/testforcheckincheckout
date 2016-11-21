@@ -1,0 +1,9 @@
+function anup()
+{
+Print anup
+}
+
+function shashank()
+{
+Print shashank
+}
